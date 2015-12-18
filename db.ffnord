@@ -9,3 +9,6 @@ vpn2                    86400     IN        A     10.187.136.1
                                             AAAA  2a03:2267:4e6f:7264::fd01
 vpn3                    86400     IN        A     10.187.170.1
                                             AAAA  2a03:2267:4e6f:7264::fd03
+                                            
+#User Domains
+nordgedanken            86400     IN        A     10.187.255.12
