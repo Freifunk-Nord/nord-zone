@@ -12,3 +12,4 @@ vpn3                    86400     IN        A     10.187.170.1
                                             
 #User Domains
 nordgedanken            86400     IN        A     10.187.255.12
+diaspora.nordgedanken   86400     IN        CNAME nordgedanken
