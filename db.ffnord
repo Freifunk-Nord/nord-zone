@@ -12,3 +12,4 @@ vpn3                    86400     IN        A     10.187.170.1
 nextnode		86400	  IN	    A	  10.187.254.254
 					    AAAA  2a03:2267:4e6f:7264::ffff
 node			86400	  IN        CNAME nextnode
+knoten			86400	  IN        CNAME nextnode
